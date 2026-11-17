@@ -1,0 +1,4 @@
+Copy these 3 files from Emergent into this folder (src):
+  App.js      -> save as App.jsx   (note the .jsx ending)
+  App.css     -> save as App.css
+  contact.css -> save as contact.css
